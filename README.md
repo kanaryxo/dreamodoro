@@ -18,7 +18,7 @@ Dreamodoro is a fun and focused desktop Pomodoro timer built with Python. It fea
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/dreamodoro.git
+git clone https://github.com/kanaryxo/dreamodoro.git
 cd dreamodoro
 
 ## 2. Create a virtual environment (optional but recommended)
